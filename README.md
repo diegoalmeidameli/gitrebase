@@ -1,2 +1,2 @@
 # gitrebase
-Just to show git rebase use
+Just to show git rebase usage
